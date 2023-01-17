@@ -3,7 +3,9 @@ A simple Movie app Where we can Book Movies, I used omdb Api to Fetch movie data
 
 
 #CHECK IT OUT
-storied-naiad-809472.netlify.app/
+<br/>
+# Deployed Link
+https://storied-naiad-809472.netlify.app/
 
 <hr/>
 
